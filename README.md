@@ -2,7 +2,7 @@
 
 **Versão Beta – feito por @KevinBorgiani**
 
-> Um macro funcional para **Matar Automaticamente os mobs do spawners**, criado com fins pessoais.
+> Um macro funcional para **matar automaticamente os mobs do spawners**, criado com fins pessoais.
 
 ---
 
