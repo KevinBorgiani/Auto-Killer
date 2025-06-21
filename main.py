@@ -20,4 +20,3 @@ for i in range(quantas_kills):
     bot.moveTo(sell_all)
     time.sleep(1)
     bot.leftClick()
-    
