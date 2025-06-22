@@ -7,6 +7,9 @@ time.sleep(3)
 quantas_kills = 10000
 sell = (569, 273)
 
+# OBS: Pode ser que não funcione, porque a resolução da sua tela pode ser diferente da minha.
+# A minha é: 1360x768, jogando em modo janela.
+
 app = ctk.CTk()
 app.geometry("300x300")
 app.title("Auto-Killer")
