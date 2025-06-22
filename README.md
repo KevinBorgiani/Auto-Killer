@@ -21,8 +21,8 @@
 ## 💡 Como usar:
 
 ### Método 1 – VS Code
-1. Baixe as bibliotecas necessárias que estão no começo do código.
-2. Cole o código do arquivo `main.py` no VS Code.
+1. Baixe o arquivo `Auto-Killer.exe`.
+2. Abra o arquivo `Auto-Killer.exe`.
 3. Suba no em cima do spawners e olhe para o mob.
 4. Execute o macro.
 
